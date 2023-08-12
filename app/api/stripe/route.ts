@@ -46,7 +46,7 @@ export async function GET() {
               name: "Optimind X",
               description: "Unlimited AI Generations"
             },
-            unit_amount: 1,
+            unit_amount: 12,
             recurring: {
               interval: "month"
             }
